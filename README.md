@@ -1,1 +1,8 @@
-A reinforcement learning project where an agent learns to play Snake using Deep Q-Learning. The game is built with Pygame, and the agent trains by playing thousands of episodes, improving its score over time. Includes fast headless training and an option to watch the trained agent play.
+# ML Learning Projects
+
+A collection of small machine learning projects I'm working on while learning the fundamentals for my dissertation in Reinforcement Learning.
+
+## Projects
+
+- [Reinforcement Learning Snake Game](rl_snake_game)
+- [Simple Neural Network (XOR Problem)](simple_neural_network)
